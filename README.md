@@ -10,8 +10,13 @@
 
 
 ---
-## Adicionando o plugin **[packer](https://github.com/wbthomason/packer.nvim)**
-### o plugin **packer** é responsável por baixar e instalar outros plugins, para realizar sua instalação basta copiar o código abaixo.
+### Copiando arquivos de configuraçao
+
+```
+git clone git@github.com:Dragonflip/.dotfiles.git .config
+```
+### Adicionando o plugin **[packer](https://github.com/wbthomason/packer.nvim)**
+#### o plugin **packer** é responsável por baixar e instalar outros plugins, para realizar sua instalação basta copiar o código abaixo.
 
 ```
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\

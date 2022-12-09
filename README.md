@@ -2,7 +2,7 @@
 📄<br>README .config
 </h1>
 
-## Selecione o README que deseja usar
+## Arquivos de configuração
 
 [![Perfil](https://img.shields.io/badge/perfil%20-%23323330.svg?&style=for-the-badge&logo=perfil&logoColor=black&color=F745B5)](https://github.com/Dragonflip)
 [![Repositório](https://img.shields.io/badge/repositório%20-%23323330.svg?&style=for-the-badge&logo=repositório&logoColor=black&color=8000FF)](https://github.com/Dragonflip/.dotfiles)
@@ -10,6 +10,7 @@
 
 
 ---
+## nvim
 ### Copiando arquivos de configuraçao
 
 ```

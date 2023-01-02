@@ -17,6 +17,8 @@ return require('packer').startup(function()
     use 'hrsh7th/cmp-cmdline'
     use 'hrsh7th/nvim-cmp'
 
+    --Nerdtree
+    use 'preservim/nerdtree'
 
     --Telescope
     use {

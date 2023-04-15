@@ -25,7 +25,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 ```
 
 ### Executando o arquivo de pacotes para que seja possivel utilizar o Packer
-#### Executar o comando dentro do nvim com o arquivo de configuracoes do packet aberto
+#### Executar o comando dentro do nvim com o arquivo de configuracoes do packer aberto
 ```
 :source %
 ```

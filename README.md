@@ -25,7 +25,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 ```
 
 ### Executando o arquivo de pacotes para que seja possivel utilizar o Packer
-
+#### Executar o comando dentro do nvim com o arquivo de configuracoes do packet aberto
 ```
 :source %
 ```
@@ -34,6 +34,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 ![source file](https://github.com/Dragonflip/.dotfiles/blob/main/Captura%20de%20tela%20de%202023-04-15%2010-33-38.png)
 
 ### Instalando todos os plugins
+#### Executar o comando dentro do nvim
 ```
 :PackerSync
 ```

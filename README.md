@@ -31,14 +31,14 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 ```
 
 
-![source file](https://github.com/Dragonflip/.dotfiles/blob/main/Captura%20de%20tela%20de%202023-04-15%2010-33-38.png)
+![source file](/images/source_file.png)
 
 ### Instalando todos os plugins
 #### Executar o comando dentro do nvim
 ```
 :PackerSync
 ```
-![source file](https://github.com/Dragonflip/.dotfiles/blob/main/Captura%20de%20tela%20de%202023-04-15%2010-39-05.png)
+![source file](/images/PackerSync.png)
 
 ---
 ## 🍜 Licença

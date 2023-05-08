@@ -15,3 +15,5 @@ vim.opt.smartindent = true
 vim.opt.wrap = false
 
 vim.g.mapleader = " "
+
+vim.g.user_emmet_leader_key=','

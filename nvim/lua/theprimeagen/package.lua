@@ -17,8 +17,10 @@ return require('packer').startup(function()
     use 'hrsh7th/cmp-cmdline'
     use 'hrsh7th/nvim-cmp'
 
-    --Nerdtree
-    use 'preservim/nerdtree'
+    --html plugins
+    use 'mattn/emmet-vim'
+    use 'alvan/vim-closetag'
+    use 'AndrewRadev/tagalong.vim'
 
     --Telescope
     use {
